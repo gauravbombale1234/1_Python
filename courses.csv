@@ -1,0 +1,13 @@
+,Courses,Fee,DUration,Feeg,Discount
+r1,spark,2323.0,30days,,
+r2,Pyspark,3445.0,50days,,
+r3,Python,6767.0,30days,,
+r4,Pandas,3423.0,2days,,
+r1,spark,,,2323.0,
+r6,oop,,,3445.0,
+r3,java,,,6767.0,
+r5,spark,,,3423.0,
+r1,,,30days,,2323.0
+r2,,,50days,,3445.0
+r3,,,30days,,6767.0
+r4,,,2days,,3423.0

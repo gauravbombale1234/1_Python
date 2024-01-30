@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 28 08:20:17 2023
+
+@author: Omsai
+"""
+#Lambda Function (ananymous function)
+def add(a,b,c):
+    sum=a+b+c
+    return sum
+print(add(4,5,6))
+
+add=lambda a,b,c:a+b+c
+add(4,5,6)
+
+##################
+def multi(a,b,c):
+    m=a*b*c
+    return m
+print(multi(4,5,6))
+
+multi=lambda a,b,c:a*b*c
+multi(4,5,6)
+
+######################
